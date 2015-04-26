@@ -1,0 +1,18 @@
+
+/******************************************************************************
+ * Code 
+ ******************************************************************************/
+
+--The directory primitives defines the SAT primitives you need to
+implement. All your work should be done in this directory, and you
+will only submit this directory
+
+--The directory sat_solver includes C code to build a SAT solver. When you
+finish implementing the SAT primitives, you can immediately build a SAT solver
+by linking the static C library libsat.a with the code in this directory (you
+will create libsat.a in the directory primitives). Then you can test your
+functions on the resulting SAT solver.
+
+--The directory knowledge_compiler is not complete yet. We will provide more
+details later.
+

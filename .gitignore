@@ -26,3 +26,17 @@
 *.exe
 *.out
 *.app
+
+# Benchmarks
+code/benchmarks/
+
+# Binaries
+code/sat_solver/sat
+
+code/primitives/libsat.a
+
+code/c2D_code/bin/linux/*
+!code/c2D_code/bin/linux/hgr2htree
+
+code/c2D_code/bin/darwin/*
+!code/c2D_code/bin/darwin/hgr2htree
